@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764857716086",
+    "project_id": "login-and-signup-8fbd2",
+    "storage_bucket": "login-and-signup-8fbd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764857716086:android:8d9d4c8f3e16b573483e57",
+        "android_client_info": {
+          "package_name": "com.example.finalhomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764857716086-t048javipbln0uhanrin8ieunqh14j85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhAZiOc-Ysqxf0WaibNjBJpI_Y8sKnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764857716086-t048javipbln0uhanrin8ieunqh14j85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
